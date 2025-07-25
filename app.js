@@ -74,4 +74,5 @@ app.listen(PORT, () => {
   console.log(`🚀 DevOps Bootcamp App running on port ${PORT}`);
   console.log(`📊 Health check: http://localhost:${PORT}/health`);
   console.log(`📈 Stats: http://localhost:${PORT}/api/stats`);
-});
+});console.log("🐛 Bug introducido para simular problema");
+// Parche de seguridad aplicado Fri Jul 25 09:56:04 PM UTC 2025
