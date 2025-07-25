@@ -76,3 +76,12 @@ app.listen(PORT, () => {
   console.log(`📈 Stats: http://localhost:${PORT}/api/stats`);
 });console.log("🐛 Bug introducido para simular problema");
 // Parche de seguridad aplicado Fri Jul 25 09:56:04 PM UTC 2025
+
+app.get('/api/version', (req, res)     => {
+  res.json({
+    version: '1.1.0',
+    buildDate: 'Fri Jul 25 09:56:29 PM UTC 2025',
+    author: 'Orli', 
+environment: process.env.NODE_ENV     || 'development'
+  });
+});
