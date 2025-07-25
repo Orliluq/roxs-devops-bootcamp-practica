@@ -169,8 +169,3 @@ Roadmap que recomiendo seguir [DevOps](https://roadmap.sh/devops)
 - ☕ Ko-fi [roxsross](https://ko-fi.com/roxsross)
 - ▶️ Youtube [295devops](https://www.youtube.com/@295devops)
 - 📧 Email: roxs@295devops.com
-
-
-# Devops-bootcamp-practica
-# roxs-devops-bootcamp-practica
-# Devops-bootcamp-practica
